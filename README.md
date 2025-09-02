@@ -18,7 +18,9 @@ Lightweight demo of a simple microservices stack (**frontend + backend + MongoDB
 ---
 
 ## 🖼️ Architecture Diagram
-👉 *(Insert system architecture diagram here)*
+![System architecture diagram](screenshots/architecture-diagram.png)
+
+> Figure: High-level system architecture — frontend calls backend; backend stores data in MongoDB; `mongo-express` provides a DB UI.
 
 ---
 
