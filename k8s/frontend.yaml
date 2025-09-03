@@ -30,3 +30,4 @@ spec:
   ports:
   - port: 80
     targetPort: 9000
+  type: ClusterIP
